@@ -5,6 +5,7 @@ import Images from '../../services/images';
 import Texts from '../../services/texts';
 import Avatar from '../../shared/avatar';
 import Title from './title';
+import Experience from './experience';
 import styles from './style.js';
 
 class Summary extends React.Component {
@@ -17,6 +18,7 @@ class Summary extends React.Component {
         </div>
         <div className={classes.main}>
           <Title />
+          <Experience />
         </div>
       </div>
     );

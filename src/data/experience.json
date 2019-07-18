@@ -1,0 +1,35 @@
+{
+  "education": [
+    {
+      "name": "Black Sea National University by Petro Mohyla",
+      "courses": [
+        {
+          "name": "Computer Science",
+          "startDate": "September 2009",
+          "endDate": "July 2013",
+          "degree": "Bachelor"
+        },
+        {
+          "name": "Computer Science",
+          "startDate": "July 2013",
+          "endDate": "July 2014",
+          "degree": "Specialist's"
+        }
+      ]
+    },
+    {
+      "name": "National University of Shipbuilding",
+      "courses": [
+        {
+          "name": "Project Management",
+          "startDate": "September 2014",
+          "endDate": "February 2016",
+          "degree": "Master's"
+        }
+      ]
+    }
+  ],
+  "work": [
+    
+  ]
+}
