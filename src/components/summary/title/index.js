@@ -1,7 +1,7 @@
 import React from 'react';
 import withStyles from 'react-jss';
-import Text, { size, color } from '../text';
-import Texts from '../../services/texts';
+import Text, { size, color } from '../../../shared/text';
+import Texts from '../../../services/texts';
 import styles from './style.js';
 
 class Title extends React.Component {

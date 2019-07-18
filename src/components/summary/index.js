@@ -4,7 +4,7 @@ import Text, { size } from '../../shared/text';
 import Images from '../../services/images';
 import Texts from '../../services/texts';
 import Avatar from '../../shared/avatar';
-import Title from '../../shared/title';
+import Title from './title';
 import styles from './style.js';
 
 class Summary extends React.Component {
